@@ -1,0 +1,12 @@
+.box{
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+    background-color: red;
+
+}
+.box_list{
+    background-color: rgb(17, 0, 114);
+    display: flex;
+    flex-wrap: wrap;
+}
